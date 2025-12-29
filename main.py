@@ -1,3 +1,5 @@
+from fast_common import *
+
 def main():
     print("Hello from fast-common!")
 
